@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://johannarouca.com.br">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannarouca&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannarouca&layout=compact&langs_count=7&theme=clean"/>
 </div>
   
 <div style="display: inline_block"><br>
