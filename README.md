@@ -1,7 +1,7 @@
 ### Olá!👋 Eu sou o Johann Arouca
 
-- 🔭 Hoje trabalho como Desenvolvedor Júnior 
-- 🌱 Estou estudando React e Desenvolvimento Web
+- 🔭 Hoje trabalho como Desenvolvedor Front-end 
+- 🌱 Estou estudando React e Angular
 
 <div align="center">
   <a href="https://johannarouca.com.br">
